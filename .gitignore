@@ -1,0 +1,4 @@
+#BIN FILES
+*.pyc
+*.*~
+*.DS_Store
